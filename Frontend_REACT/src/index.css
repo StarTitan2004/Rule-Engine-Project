@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  text-align: center;
+  padding: 2rem;
+}
+
+header h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+}
